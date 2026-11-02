@@ -1,0 +1,7 @@
+servers:
+  - name: "Aggregate"
+    github_url: "https://github.com/Izzy-Gottz/aggregate-finance"
+    package_name: "aggregate-finance"
+    description: "Read-only finance MCP server: one ledger for banks, cards, books and payroll. Open source, free during beta."
+    package_type: "npm"
+    category: "finance"
